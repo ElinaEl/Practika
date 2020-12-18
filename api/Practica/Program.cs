@@ -11,7 +11,7 @@ namespace practica
     {
         static void Main(string[] args)
         {
-
+            //убери в конфиг
             string key = "a5c9fbdf29a1b4415a875b88ad996781";
             string town;
 
