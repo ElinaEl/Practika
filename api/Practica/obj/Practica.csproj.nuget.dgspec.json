@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\source\\repos\\Practica\\Practica\\Practica.csproj": {}
+    "C:\\Users\\PC\\OneDrive\\Рабочий стол\\Новая папка\\Practika\\api\\Practica\\Practica.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\source\\repos\\Practica\\Practica\\Practica.csproj": {
+    "C:\\Users\\PC\\OneDrive\\Рабочий стол\\Новая папка\\Practika\\api\\Practica\\Practica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\source\\repos\\Practica\\Practica\\Practica.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\OneDrive\\Рабочий стол\\Новая папка\\Practika\\api\\Practica\\Practica.csproj",
         "projectName": "Practica",
-        "projectPath": "C:\\Users\\PC\\source\\repos\\Practica\\Practica\\Practica.csproj",
+        "projectPath": "C:\\Users\\PC\\OneDrive\\Рабочий стол\\Новая папка\\Practika\\api\\Practica\\Practica.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\source\\repos\\Practica\\Practica\\obj\\",
+        "outputPath": "C:\\Users\\PC\\OneDrive\\Рабочий стол\\Новая папка\\Practika\\api\\Practica\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -41,6 +41,10 @@
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[12.0.3, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[5.0.0, )"
             }
           },
           "imports": [

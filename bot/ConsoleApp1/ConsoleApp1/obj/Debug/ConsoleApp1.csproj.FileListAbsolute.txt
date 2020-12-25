@@ -1,0 +1,48 @@
+C:\Users\Gleb\Desktop\WinForm\telegramm\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Gleb\Desktop\WinForm\telegramm\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Gleb\Desktop\WinForm\telegramm\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Gleb\Desktop\WinForm\telegramm\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gleb\Desktop\WinForm\telegramm\ConsoleApp1\ConsoleApp1\bin\Debug\Telegram.Bot.dll
+C:\Users\Gleb\Desktop\WinForm\telegramm\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gleb\Desktop\WinForm\telegramm\ConsoleApp1\ConsoleApp1\bin\Debug\Telegram.Bot.xml
+C:\Users\Gleb\Desktop\WinForm\telegramm\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Gleb\Desktop\WinForm\telegramm\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Gleb\Desktop\WinForm\telegramm\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\Gleb\Desktop\WinForm\telegramm\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Gleb\Desktop\WinForm\telegramm\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\PC\OneDrive\Рабочий стол\telegramm\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\PC\OneDrive\Рабочий стол\telegramm\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\PC\OneDrive\Рабочий стол\telegramm\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\PC\OneDrive\Рабочий стол\telegramm\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\PC\OneDrive\Рабочий стол\telegramm\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\PC\OneDrive\Рабочий стол\telegramm\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\PC\OneDrive\Рабочий стол\telegramm\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC\OneDrive\Рабочий стол\telegramm\ConsoleApp1\ConsoleApp1\bin\Debug\Telegram.Bot.dll
+C:\Users\PC\OneDrive\Рабочий стол\telegramm\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC\OneDrive\Рабочий стол\telegramm\ConsoleApp1\ConsoleApp1\bin\Debug\Telegram.Bot.xml
+C:\Users\PC\OneDrive\Рабочий стол\telegramm\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\PC\Downloads\telegramm\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\PC\Downloads\telegramm\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\PC\Downloads\telegramm\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\PC\Downloads\telegramm\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\PC\Downloads\telegramm\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\PC\Downloads\telegramm\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\PC\Downloads\telegramm\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PC\Downloads\telegramm\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\PC\Downloads\telegramm\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC\Downloads\telegramm\ConsoleApp1\ConsoleApp1\bin\Debug\System.Buffers.dll
+C:\Users\PC\Downloads\telegramm\ConsoleApp1\ConsoleApp1\bin\Debug\System.Memory.dll
+C:\Users\PC\Downloads\telegramm\ConsoleApp1\ConsoleApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\Downloads\telegramm\ConsoleApp1\ConsoleApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\Downloads\telegramm\ConsoleApp1\ConsoleApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\PC\Downloads\telegramm\ConsoleApp1\ConsoleApp1\bin\Debug\Telegram.Bot.dll
+C:\Users\PC\Downloads\telegramm\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\PC\Downloads\telegramm\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\PC\Downloads\telegramm\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC\Downloads\telegramm\ConsoleApp1\ConsoleApp1\bin\Debug\System.Buffers.xml
+C:\Users\PC\Downloads\telegramm\ConsoleApp1\ConsoleApp1\bin\Debug\System.Memory.xml
+C:\Users\PC\Downloads\telegramm\ConsoleApp1\ConsoleApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC\Downloads\telegramm\ConsoleApp1\ConsoleApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\Downloads\telegramm\ConsoleApp1\ConsoleApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\PC\Downloads\telegramm\ConsoleApp1\ConsoleApp1\bin\Debug\Telegram.Bot.xml
+C:\Users\PC\Downloads\telegramm\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
